@@ -14,4 +14,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 </div>
-<p align="center">I am <strong>studiying Cross-platform application development</strong> <br> at the CPIFP Alan Turing center at the <strong>PTA</strong> (Andalusian Tech Park)</p>
+<p align="center">I am <strong>studiying IA and Big Data</strong> <br> at the DigiTechFP center in Málaga</p>
